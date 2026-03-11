@@ -41,3 +41,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] UX Designer engaged; wireframes or user flows reviewed for in-scope features
+- [ ] Business Analyst requirements workshop completed; requirements documented
+- [ ] Data Analyst consulted; success metrics and instrumentation requirements defined
+- [ ] Scrum Master confirmed for agile ceremony facilitation
+- [ ] See [`octoacme-persona-handoff-checklist.md`](octoacme-persona-handoff-checklist.md) for cross-role hand-off steps

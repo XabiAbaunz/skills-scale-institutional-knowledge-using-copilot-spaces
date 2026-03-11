@@ -20,6 +20,13 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+## Extended Roles
+The following roles support cross-functional delivery and were added to address gaps identified in [issue #4](https://github.com/XabiAbaunz/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4). Full role definitions are in [`octoacme-roles-and-personas.md`](octoacme-roles-and-personas.md).
+- **UX Designer**: ensures usability and user-centricity; partners with Product Managers and Developers on design and acceptance criteria.
+- **Scrum Master**: facilitates agile ceremonies, removes blockers, and coaches the team on agile practices.
+- **Data Analyst**: defines and tracks metrics; provides data-driven insights for planning and retrospectives.
+- **Business Analyst**: gathers and documents business requirements; bridges stakeholders and the delivery team.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
